@@ -1,0 +1,43 @@
+#he command line is a text interface for the computer’s operating system. You can use it to traverse and edit your computer’s filesystem.
+#ls command
+#specific task display current directory files.
+#pwd- print working directory
+#we can see which directory we are working.
+#cd- change directory
+#this change the working directory.
+# cd..
+#move up to next directory.
+#mkdir 
+#create a new directory.
+#touch 
+create a new file.
+-a
+list all contant with hidden files and directores
+#-l
+list all content with long formet 
+#-ls -l
+#cp 
+copy source files and destination
+#cp*.txt 
+collect the files.
+#mv command
+mv one file to other place.
+#rm command
+remove the unwanted files and directories. its delete permanantely.
+ls-t
+by with time when last they was updated.
+#echo command 
+create a file
+| pipeline command
+command to command
+uniq command
+grep command globel regular expression print
+it search for files with content. 
+grep -R 
+files foun thoese match with 
+sed command stand for stream editor
+search for text pattern.
+alias command \to create a shortcut.
+
+
+
